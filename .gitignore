@@ -1,0 +1,7 @@
+/config/app.php
+/tmp/*
+/logs/*
+/zip_backup/*
+/backup/*
+/src_10222017_live_changes/*
+/tristan/*
